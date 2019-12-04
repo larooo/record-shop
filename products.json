@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "artist": "artist",
+      "year": 1990
+    },
+    {
+      "artist": "Lara",
+      "year": 2019
+    },
+    {
+      "artist": "Richard",
+      "year": 1981
+    }
+  ]
+}
